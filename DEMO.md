@@ -8,4 +8,5 @@ output: html_document
 Set the working directory to the hone containing the current file
 To run the demo, type the following commands :
 > source("demo.R")
+
 > demo()
